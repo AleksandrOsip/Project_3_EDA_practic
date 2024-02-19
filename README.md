@@ -6,11 +6,11 @@ PROJECT_3_EDA. Исследование на основе данных о зар
 
 1. [Описание проекта.](https://github.com/Petrleon85/Project_3_EDA_practic/blob/main/README.md#описание-проекта)
 
-1. [Проектный кейс.](https://github.com/Petrleon85/Project_3_EDA_practic.git/blob/main/README.md#проектный-кейс)
+1. [Проектный кейс.](https://github.com/Petrleon85/Project_3_EDA_practic/blob/main/README.md#проектный-кейс)
 
-1. [Результат.](https://github.com/Petrleon85/Project_3_EDA_practic.git/blob/main/README.md#результат)
+1. [Результат.](https://github.com/Petrleon85/Project_3_EDA_practic/blob/main/README.md#результат)
 
-1. [Выводы.](https://github.com/Petrleon85/Project_3_EDA_practic.git/blob/main/README.md#выводы)
+1. [Выводы.](https://github.com/Petrleon85/Project_3_EDA_practic/blob/main/README.md#выводы)
 
 ### Описание проекта
 ---
@@ -183,4 +183,4 @@ Cуммарно 4 балла (по 1 баллу за каждый вывод п�
 
 
 
-⬆️[к оглавлению](https://github.com/Petrleon85/Project_3_EDA_practic/blob/main/blob/main/README.md#оглавление)
+⬆️[к оглавлению](https://github.com/Petrleon85/Project_3_EDA_practic/blob/main/README.md#оглавление)
